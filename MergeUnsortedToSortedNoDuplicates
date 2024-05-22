@@ -1,0 +1,2 @@
+Intstream.concat(Arrays.stream(a), Arrays.stream(b))
+.sorted().distinct().toArray();
